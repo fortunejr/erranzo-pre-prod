@@ -40,8 +40,8 @@ const Homepage = () => {
             <div>
               <span className="inline-block text-m bg-gray-200 px-3 py-1 rounded-full mb-2">🚀 Launch Coming Soon</span>
               <h1 className="text-5xl font-bold leading-tight">
-                Your Errands, <br />
-                <span className="text-blue-600">Handled.</span>
+                All errands <br />
+                <span className="text-blue-600">One app.</span>
               </h1>
               <p className="text-lg text-gray-600 mt-4 max-w-lg">
                 The smartest way to get your daily tasks done. Book trusted runners, 
